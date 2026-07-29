@@ -12,14 +12,14 @@ My solutions to Deep-ML challenges — ML/DL concepts implemented from scratch i
 
 ## 📊 Progress
 
-| Category | Solved | Total |
-|---|---|---|
-| Linear Algebra | 0 | 8 |
-| Statistics & Probability | 0 | 3 |
-| Classical ML | 0 | 7 |
-| Deep Learning | 0 | 5 |
-| NLP | 0 | - |
-| Computer Vision | 0 | - |
+| Category 
+|---
+| Linear Algebra 
+| Statistics & Probability 
+| Classical ML 
+| Deep Learning 
+| NLP 
+| Computer Vision 
 
 ## 🧠 Format
 
